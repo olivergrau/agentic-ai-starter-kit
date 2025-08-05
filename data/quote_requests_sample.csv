@@ -1,0 +1,74 @@
+job,need_size,mission_type,request,request_date
+station manager,small,installation,"I would like to request the following mission supplies for the installation: 
+
+- 12 modular light fixtures
+- 8 portable power nodes
+- 6 ion charge kits
+
+I need these supplies delivered by August 15, 2025. Thank you.",08/01/25
+habitat coordinator,small,spacewalk,"I would like to place an order for 18 eva helmet lights, 12 rapid-assemble toolsets, and 8 zero-gravity adhesive packs for the spacewalk. Please deliver the supplies by August 15, 2025. Thank you.",08/03/25
+mission director,large,research,"I need to order 150 environmental sensor pucks, 80 mission data tablets, and 25 field diagnostic scanners. The supplies must be delivered by August 15, 2025, for our upcoming research mission. Please confirm the order and delivery schedule.",08/04/25
+communications officer,small,deployment,"I need 18 biometric ID badges and 12 secure cargo cases for our deployment, along with 8 holographic label tags. I need the order delivered by August 15, 2025.",08/05/25
+EVA specialist,medium,repair,"I would like to place an order for 25 eva-rated patch films, 18 cryo-sealant cartridges, and 12 nano-fiber bonding strips. I need these supplies delivered by August 15, 2025, for an upcoming repair operation. Thank you!",08/05/25
+systems technician,small,construction,"I would like to order 35 structural foam tiles, 20 thermal insulation sheets, and 15 atmospheric seal strips. We need these supplies delivered by August 15, 2025, for our upcoming construction project.",08/06/25
+orbital coordinator,large,exploration,"I would like to place a large order for various types of mission supplies for our upcoming exploration. We need the following items:
+
+- 120 carbon mesh panels
+- 80 pressure-rated hull plates
+- 45 aerogel sheets
+- 25 radiation barrier mesh units
+
+We need these supplies delivered by August 15, 2025. Thank you.",08/07/25
+supply officer,large,emergency,"I would like to place a large order for the following mission supplies for an emergency response: 
+
+- 180 eva-rated patch films 
+- 120 cryo-sealant cartridges 
+- 85 nano-fiber bonding strips 
+- 200 polymer containment bags 
+
+Please ensure delivery by August 15, 2025. Thank you.",08/07/25
+station logistics,small,installation,"I would like to place an order for the following mission supplies for the installation: 
+
+- 16 compressed air canisters
+- 12 modular light fixtures
+- 8 portable power nodes
+
+I need these supplies delivered by August 10, 2025. Thank you.",08/07/25
+technical coordinator,medium,research,"I would like to place an order for 35 environmental sensor pucks and 18 quantum marker dye units for our upcoming research mission. We need the supplies delivered by August 15, 2025.",08/08/25
+mission specialist,small,experiment,"I would like to order 22 mission data tablets and 15 field diagnostic scanners for our experiment. The supplies are needed by August 15, 2025. Thank you.",08/08/25
+operations manager,small,routine,"I would like to order 18 atmospheric seal strips, 12 reflective heatfoil wraps, and 8 hydrophobic coating kits for our upcoming routine operations. Please deliver these supplies by August 15, 2025.",08/08/25
+base commander,small,maintenance,"I would like to order 25 structural foam tiles and 15 thermal insulation sheets for our upcoming maintenance work. Please deliver the supplies by August 10, 2025.",08/08/25
+business owner,medium,show,"I would like to place an order for 500 sheets of high-quality glossy paper and 300 sheets of sturdy cardstock for our upcoming show. We need the supplies delivered by April 15, 2025.",04/08/25
+event manager,small,exhibition,"I would like to order 500 sheets of A3 glossy paper and 300 sheets of A4 matte paper for our exhibition. The supplies are needed by April 15, 2025. Thank you.",04/08/25
+city hall clerk,small,party,"I would like to order 200 sheets of colorful cardstock, 500 sheets of standard printer paper, and 100 paper napkins for our upcoming party. Please deliver these supplies by April 15, 2025.",04/08/25
+school principal,small,gathering,"I would like to order 500 sheets of A4 printing paper and 200 sheets of cardstock for our upcoming gathering. Please deliver the supplies by April 10, 2025.",04/08/25
+habitat engineer,large,construction,"I would like to place a large order for high-quality mission supplies for our upcoming construction project. We need 280 carbon mesh panels, 180 pressure-rated hull plates, and 120 structural foam tiles. Please deliver these supplies by August 15, 2025. Thank you.",08/09/25
+mission controller,large,deployment,"I would like to place a large order for high-quality mission supplies for our upcoming deployment. Please provide the following:
+
+- 350 polymer containment bags
+- 180 compressed air canisters  
+- 85 ion charge kits for power systems
+
+I need these supplies delivered by August 15, 2025. Thank you.",08/12/25
+maintenance chief,small,construction,"I would like to place an order for 28 atmospheric seal strips, 18 cryo-sealant cartridges, and 12 eva-rated patch films. I need these supplies delivered by August 15, 2025, in time for our construction work.",08/13/25
+EVA coordinator,medium,spacewalk,"I would like to place a medium order for the following spacewalk supplies for our upcoming EVA operations:
+
+- 45 eva helmet lights for crew visibility
+- 35 zero-gravity adhesive packs for repairs
+- 28 rapid-assemble toolsets for maintenance
+- 18 compressed air canisters for emergencies
+
+I need these supplies delivered by August 15, 2025. Thank you.",08/14/25
+facility manager,medium,installation,"I would like to place a medium order for the following mission supplies for our upcoming installation: 35 modular light fixtures, 25 portable power nodes, and 18 biometric ID badges. I need these supplies delivered by August 15, 2025.",08/14/25
+communications lead,medium,research,"Dear Polaris Outfitting,
+
+I would like to place an order for the following mission supplies for our upcoming research:
+
+- 45 environmental sensor pucks for monitoring
+- 35 mission data tablets for data collection
+- 28 holographic label tags for inventory
+
+We need the supplies delivered by August 20, 2025.
+
+Thank you!",08/15/25
+systems engineer,large,upgrade,"I would like to place a large order for the following mission supplies for our upcoming upgrade: 280 carbon mesh panels, 180 thermal insulation sheets, and 350 structural foam tiles. We need these items delivered by August 25, 2025, to ensure adequate time for installation and testing. Thank you!",08/17/25

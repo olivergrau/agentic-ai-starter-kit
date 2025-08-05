@@ -1,0 +1,390 @@
+mood,job,need_size,mission_type,response
+stressed,lunar base commander,large,exploration,"I would like to request a large order of mission-critical supplies for our upcoming lunar exploration. We need 150 carbon mesh panels, 80 cryo-sealant cartridges, and 60 thermal insulation sheets. Please ensure the delivery is made by August 15, 2025. Thank you."
+pissed off,orbital station chief,large,maintenance,"I need to order 25 pressure-rated hull plates, 15 eva-rated patch films, and 8 field diagnostic scanners. I need the order delivered by August 10, 2025, for critical station maintenance."
+miserable,mission coordinator,small,research,"I would like to place an order for 12 environmental sensor pucks, 8 mission data tablets, and 20 holographic label tags. I need these supplies delivered by August 15, 2025, to ensure everything is ready for the research mission. Thank you."
+pissed off,deep space engineer,small,repair,"I need to order 30 nano-fiber bonding strips and 15 zero-gravity adhesive packs for emergency repairs. I need these supplies delivered by August 10, 2025."
+pissed off,station supply officer,large,deployment,"I need to order 100 structural foam tiles, 50 atmospheric seal strips, and 25 portable power nodes for the deployment. Please deliver the supplies by August 15, 2025."
+stressed,habitat engineer,small,construction,"We need to order 20 reflective heatfoil wraps and 15 multi-layer thermal blankets for our habitat construction. Please ensure delivery by August 15, 2025. Thank you."
+happy,EVA specialist,small,spacewalk,"I would like to order 8 EVA helmet lights, 12 ion charge kits, and 6 rapid-assemble toolsets for our upcoming spacewalk. We need the supplies delivered by August 15, 2025."
+stressed,supply coordinator,medium,resupply,"I would like to place a medium order for mission supplies, including 25 compressed air canisters, 18 biometric ID badges, and 12 secure cargo cases. I need the supplies delivered by August 20, 2025, for our upcoming resupply mission. Thank you."
+miserable,research lead,small,experiment,"I would like to request the following supplies for our upcoming experiment:
+
+- 15 quantum marker dye units
+- 8 hydrophobic coating kits  
+- 6 cryo-storage units
+
+We need these supplies delivered by August 15, 2025."
+sad,communications officer,medium,deployment,"I would like to place an order for 3 deployable antenna arrays, 12 modular light fixtures, and 8 portable power nodes for our upcoming deployment. Please deliver these supplies by August 15, 2025."
+happy,mission planner,medium,exploration,"Dear Polaris Outfitting,
+
+I would like to place an order for the following mission supplies for our upcoming exploration:
+
+- Quantity: 40 carbon mesh panels
+- Quantity: 25 thermal insulation sheets
+- Quantity: 60 polymer containment bags
+- Additional: 4 telescopic support beams
+
+We will need these supplies delivered by August 15, 2025. 
+
+Thank you."
+sad,facility manager,medium,maintenance,"I would like to place a medium order for the following supplies for our upcoming maintenance:  
+
+- 35 atmospheric seal strips
+- 20 eva-rated patch films  
+- 15 nano-fiber bonding strips
+- 6 field diagnostic scanners
+
+Please deliver these supplies by August 15, 2025. Thank you."
+miserable,systems technician,small,repair,"I would like to order 25 structural foam tiles, 12 cryo-sealant cartridges, and 8 ion charge kits. I need these supplies delivered by August 15, 2025, in time for the repair work. Thank you."
+sad,base commander,large,setup,"Dear Polaris Outfitting,
+
+I hope this message finds you well. I would like to place a large order for mission supplies for an upcoming base setup. 
+
+We need the following items:
+- 200 carbon mesh panels
+- 100 pressure-rated hull plates
+- 50 aerogel sheets
+- 75 radiation barrier mesh units
+
+The materials are needed by August 15, 2025, to ensure we have everything prepared for the operation.
+
+Thank you for your assistance.
+
+Best regards,
+Commander Sarah Chen"
+happy,logistics coordinator,small,transport,"I would like to order 30 polymer containment bags, 12 secure cargo cases, and 20 holographic label tags for the transport operation. I need the supplies delivered by August 15, 2025."
+pissed off,operations chief,small,emergency,"I would like to place an order for 18 eva-rated patch films and 24 zero-gravity adhesive packs for our emergency response. Please ensure delivery by August 15, 2025. Thank you."
+pissed off,maintenance engineer,small,routine,"I would like to place a small order for 15 reflective heatfoil wraps, along with 8 hydrophobic coating kits. Additionally, I need 6 environmental sensor pucks and 4 portable power nodes for the routine maintenance. Please ensure that the order is delivered by August 15, 2025."
+happy,station manager,small,upgrade,"I would like to place an order for 12 modular light fixtures, 8 mission data tablets, and 6 cryo-storage units. I need these supplies delivered by August 15, 2025, in time for our station upgrade. Thank you!"
+stressed,mission director,large,expedition,"We need to order 300 structural foam tiles and 150 thermal insulation sheets for our expedition. Please have these supplies delivered by August 15, 2025. Thank you."
+happy,technical lead,small,installation,"I would like to place an order for the following mission supplies for the installation: 
+
+- 20 nano-fiber bonding strips
+- 12 atmospheric seal strips
+- 8 rapid-assemble toolsets
+- 6 biometric ID badges
+
+I need these supplies delivered by August 15, 2025. Thank you!"
+stressed,supply officer,small,emergency,"I would like to order 18 compressed air canisters, 12 eva helmet lights, and 8 portable power nodes. I need the order delivered by August 10, 2025, for an emergency situation."
+sad,orbital coordinator,large,construction,"I would like to place a large order for 80 pressure-rated hull plates (minimum grade A) and 120 carbon mesh panels for construction. Please ensure delivery by August 15, 2025. Thank you."
+pissed off,habitat specialist,small,repair,"I would like to order 25 thermal insulation sheets and 15 cryo-sealant cartridges for habitat repairs. I need these supplies delivered by August 15, 2025."
+stressed,mission controller,large,deployment,"Dear Polaris Outfitting,
+
+I would like to place a large order for mission supplies for our upcoming deployment. We need the following items:
+
+- 100 aerogel sheets
+- 75 radiation barrier mesh units  
+- 50 multi-layer thermal blankets
+- 25 environmental sensor pucks
+
+Please confirm that you can deliver these supplies by August 15, 2025.
+
+Thank you.
+
+Best regards,
+Dr. Martinez  
+Mission Controller  
+Europa Station  
+Contact: europa-ops@polaris.space"
+pissed off,space technician,small,maintenance,"I would like to order 18 structural foam tiles and 12 reflective heatfoil wraps for routine maintenance. I need these supplies delivered by August 15, 2025."
+pissed off,engineering chief,large,upgrade,"We need to place a large order for the following mission supplies for the upcoming upgrade: 
+
+- 120 pressure-rated hull plates (minimum 350 MPa rating)
+- 200 carbon mesh panels for structural work
+- 45 aerogel sheets for thermal protection
+
+We require the supplies to be delivered by August 15, 2025."
+sad,operations manager,small,research,"I would like to place an order for 15 quantum marker dye units, 8 environmental sensor pucks, and 12 polymer containment bags. We need these supplies delivered by August 15, 2025, in preparation for our research mission. Thank you."
+sad,station logistics,medium,resupply,"We would like to place a medium order for the following mission supplies for our upcoming resupply:
+
+- 35 compressed air canisters for life support systems
+- 25 ion charge kits for power management
+- 18 cryo-storage units for sample preservation
+
+Please deliver these supplies by August 15, 2025. Thank you."
+happy,EVA coordinator,medium,spacewalk,"I would like to place a medium order for the following supplies for the spacewalk: 24 eva helmet lights, 18 rapid-assemble toolsets, and 30 zero-gravity adhesive packs. We need these supplies delivered by August 15, 2025. Thank you!"
+happy,mission specialist,small,research,"I would like to place an order for 12 mission data tablets, 8 field diagnostic scanners, and 15 holographic label tags. I need these supplies by August 15, 2025, for the research mission."
+miserable,systems engineer,small,experiment,"I would like to order 20 atmospheric seal strips, 15 hydrophobic coating kits, and 10 environmental sensor pucks for our experiment. I need these supplies delivered by August 15, 2025. Thank you."
+stressed,communications tech,medium,installation,"We would like to place a medium order for the following supplies for our upcoming installation: 6 deployable antenna arrays, 18 modular light fixtures, and 12 portable power nodes. We need these supplies delivered by August 15, 2025."
+pissed off,station chief,large,emergency,"I would like to place a large order for the following supplies for the emergency response: 150 eva-rated patch films, 200 nano-fiber bonding strips, and 80 cryo-sealant cartridges. I need these supplies delivered by August 15, 2025."
+happy,facility tech,small,maintenance,"I would like to order 16 structural foam tiles and 10 thermal insulation sheets for facility maintenance. The supplies are needed by August 15, 2025."
+miserable,mission lead,small,exploration,"I would like to order 24 polymer containment bags, 12 biometric ID badges, and 8 secure cargo cases. I need these supplies by August 15, 2025, for an upcoming exploration mission. Thank you."
+sad,systems specialist,large,construction,"I would like to place a large order for the following mission supplies for our upcoming construction:
+
+- 180 carbon mesh panels
+- 120 pressure-rated hull plates  
+- 80 radiation barrier mesh units
+- 45 multi-layer thermal blankets
+
+I need these supplies delivered by August 15, 2025. Thank you."
+pissed off,maintenance tech,medium,repair,"I would like to place a medium order for the following supplies: 35 cryo-sealant cartridges, 25 reflective heatfoil wraps, and 18 atmospheric seal strips. I need these supplies delivered by August 15, 2025, for repair operations."
+miserable,operations tech,small,routine,"I need to order 14 ion charge kits, 8 compressed air canisters, and 6 rapid-assemble toolsets. I need these supplies delivered by August 10, 2025, for routine operations."
+stressed,research coordinator,large,experiment,"I would like to place an order for 45 quantum marker dye units, 30 environmental sensor pucks, and 85 polymer containment bags. We need these supplies delivered by August 15, 2025, for our upcoming experiment. Thank you."
+stressed,EVA supervisor,small,spacewalk,"I would like to order 18 eva helmet lights, 12 zero-gravity adhesive packs, and 8 field diagnostic scanners for our spacewalk operations. I need these supplies delivered by August 15, 2025."
+miserable,habitat tech,large,construction,"I would like to place a large order for various types of construction supplies for our upcoming habitat expansion. Specifically, I need:
+
+- 250 structural foam tiles
+- 180 thermal insulation sheets
+- 45 telescopic support beams (heavy-duty rating)
+- 120 aerogel sheets
+
+Please arrange for delivery by August 15, 2025. Thank you."
+sad,mission commander,large,expedition,"I would like to place a large order for the following expedition supplies: 
+
+- 200 carbon mesh panels (expedition grade)
+- 150 pressure-rated hull plates (various sizes)
+- 300 holographic label tags for inventory
+- 85 modular light fixtures
+
+I need these supplies delivered by August 10, 2025. Thank you."
+sad,communications lead,small,deployment,"I would like to order the following supplies for the deployment: 8 portable power nodes, 12 biometric ID badges, and 6 secure cargo cases. We will need the supplies delivered by August 15, 2025. Thank you."
+stressed,engineering supervisor,large,installation,"I would like to place a large order for the following supplies for the installation: 
+
+- 180 nano-fiber bonding strips
+- 120 atmospheric seal strips
+- 75 reflective heatfoil wraps
+- 35 hydrophobic coating kits
+
+Please deliver the order by August 15, 2025. Thank you."
+stressed,station engineer,small,experiment,"I would like to place a small order for the following mission supplies for our experiment:
+
+- 15 cryo-storage units for sample preservation
+- 12 quantum marker dye units for tracking
+- 20 environmental sensor pucks for monitoring
+- 8 mission data tablets for recording
+
+Please deliver these items by August 15, 2025. Thank you."
+miserable,logistics chief,large,expedition,"I would like to place a large order for the following mission supplies: 
+
+- 300 polymer containment bags for specimen storage
+- 180 compressed air canisters for life support
+- 120 ion charge kits for power systems
+- 85 rapid-assemble toolsets for field work
+
+Please deliver the supplies by August 15, 2025. Thank you."
+stressed,habitat manager,small,experiment,"I would like to place an order for the following supplies for the experiment:
+
+- 18 multi-layer thermal blankets
+- 12 eva-rated patch films  
+- 8 cryo-sealant cartridges
+
+Please deliver the supplies by August 15, 2025. Thank you!"
+pissed off,technical coordinator,medium,maintenance,"I need to order 35 structural foam tiles, 25 thermal insulation sheets, and 18 atmospheric seal strips. I need the supplies delivered by August 15, 2025, for the maintenance operation."
+happy,mission tech,small,research,"Dear Polaris Outfitting,
+
+I would like to place an order for the following mission supplies for our upcoming research:
+
+- 16 environmental sensor pucks for monitoring
+- 12 field diagnostic scanners for analysis  
+- 8 quantum marker dye units for tracking
+
+I need these supplies delivered by August 15, 2025.
+
+Thank you!
+
+Best regards,
+Dr. Kim Tanaka"
+sad,EVA lead,medium,spacewalk,"I would like to place a medium order for spacewalk supplies for our upcoming EVA operations. Please provide the following items:
+
+- 25 eva helmet lights for visibility
+- 18 zero-gravity adhesive packs for repairs
+- 12 rapid-assemble toolsets for maintenance
+- 8 compressed air canisters for emergencies
+
+I need these supplies delivered by August 15, 2025. Thank you."
+sad,systems manager,large,upgrade,"I would like to place a large order for mission supplies for our upcoming system upgrade. We need 350 carbon mesh panels, 280 pressure-rated hull plates, and 180 aerogel sheets. Please deliver these supplies by August 15, 2025. Thank you."
+stressed,operations director,large,emergency,"I would like to place a large order for emergency supplies for our operations. We need 200 eva-rated patch films, 150 cryo-sealant cartridges, and 100 nano-fiber bonding strips. The supplies are needed by August 15, 2025. Thank you."
+happy,mission logistics,medium,deployment,"Dear Polaris Outfitting,
+
+I would like to place a medium order for the following mission supplies for our upcoming deployment:
+
+- 45 portable power nodes for field operations
+- 35 biometric ID badges for crew identification
+- 28 secure cargo cases for equipment transport
+- 180 holographic label tags for inventory
+
+We will need these supplies delivered by August 15, 2025.
+
+Thank you for your assistance.
+
+Best regards,
+Captain Rivera  
+Mission Logistics  
+Titan Outpost"
+pissed off,maintenance chief,large,construction,"I need to order 180 structural foam tiles and 120 thermal insulation sheets from the manufacturer. I need the order delivered by August 10, 2025."
+sad,facility director,large,setup,"Dear Polaris Mission Outfitting,
+
+I would like to place a large order for the following mission supplies for an upcoming facility setup:
+
+- 280 carbon mesh panels (500 units per package)
+- 180 pressure-rated hull plates (250 units per package)
+- 120 radiation barrier mesh units (24 meters wide, 100 meters long)
+- 85 multi-layer thermal blankets (various grades)
+
+I need the order delivered by August 15, 2025.
+
+Thank you for your assistance.
+
+Sincerely,
+Director Chen  
+Lunar Research Facility  
+Contact: lunar-ops@polaris.space"
+happy,station operator,small,routine,"We would like to place an order for 20 atmospheric seal strips and 12 reflective heatfoil wraps for our routine operations. Please deliver these supplies by August 15, 2025. Thank you!"
+stressed,habitat director,small,experiment,"I would like to place an order for 18 cryo-storage units, 12 hydrophobic coating kits, and 15 environmental sensor pucks for our upcoming experiment. I need these supplies delivered by August 15, 2025. Thank you."
+miserable,mission manager,small,installation,"I would like to order 22 modular light fixtures, 16 ion charge kits, and 12 portable power nodes. I need the supplies delivered by August 15, 2025, for our installation project."
+miserable,EVA technician,small,spacewalk,"I would like to order 18 eva helmet lights, 12 rapid-assemble toolsets, and 8 zero-gravity adhesive packs for our spacewalk operations. I need these supplies delivered by August 15, 2025."
+miserable,systems coordinator,medium,maintenance,"I would like to place a medium order for 45 structural foam tiles, 35 cryo-sealant cartridges, and 28 atmospheric seal strips. Please deliver the supplies by August 15, 2025, for an upcoming maintenance operation."
+happy,engineering manager,large,construction,"We would like to place a large order for construction supplies for our upcoming facility expansion. Specifically, we need 220 pressure-rated hull plates, 180 carbon mesh panels, and 120 aerogel sheets. The order is needed by August 15, 2025. Thank you!"
+miserable,mission coordinator,medium,deployment,"I would like to place a medium order for the following mission supplies for our upcoming deployment: 
+
+- 35 polymer containment bags for specimen storage
+- 28 biometric ID badges for crew identification
+- 22 secure cargo cases for equipment transport
+- 18 compressed air canisters for life support
+
+I need these supplies delivered by August 10, 2025. Thank you."
+stressed,station supervisor,large,upgrade,"I would like to place a large order for mission supplies for an upcoming station upgrade. We need the following items:
+
+- 280 carbon mesh panels for structural work
+- 180 thermal insulation sheets for environmental control
+- 120 radiation barrier mesh units for protection
+- 85 modular light fixtures for illumination
+
+We require these supplies to be delivered by August 15, 2025."
+miserable,technical lead,large,maintenance,"I would like to place a large order for high-quality mission supplies for an upcoming maintenance operation. I need 18 telescopic support beams, 85 pressure-rated hull plates, and 350 structural foam tiles. I require these supplies by August 15, 2025, to ensure adequate preparation time for the operation. Thank you."
+miserable,operations chief,large,emergency,"I would like to place a large order for emergency supplies, including 180 eva-rated patch films, 120 cryo-sealant cartridges, and 280 nano-fiber bonding strips. I need these supplies delivered by August 10, 2025, for emergency response operations."
+miserable,systems engineer,medium,research,"I would like to place an order for 35 environmental sensor pucks and 28 quantum marker dye units. I need these supplies delivered by August 15, 2025, for an upcoming research mission."
+miserable,station coordinator,medium,routine,"I would like to place a medium order for the following mission supplies: 45 atmospheric seal strips, 35 reflective heatfoil wraps, and 28 hydrophobic coating kits. I need these supplies delivered by August 15, 2025, for routine operations. Thank you."
+miserable,operations coordinator,small,exploration,"I would like to place an order for 18 mission data tablets, 25 holographic label tags, and 12 field diagnostic scanners. I need these supplies delivered by August 15, 2025, for the exploration mission."
+pissed off,mission manager,small,installation,"I would like to order 16 portable power nodes, 12 ion charge kits, and 8 rapid-assemble toolsets. I need these supplies delivered by August 15, 2025, for an upcoming installation."
+stressed,technical coordinator,medium,routine,"I would like to place a medium order for the following mission supplies for my upcoming routine operations: 35 compressed air canisters, 28 modular light fixtures, and 18 cryo-storage units. I need these supplies delivered by August 10, 2025."
+pissed off,facility manager,large,installation,"I would like to place a large order for mission supplies for our upcoming installation. Please provide various grades and specifications, including hull plates, containment systems, and thermal protection. We need the supplies delivered by August 15, 2025. Thank you."
+miserable,station logistics,medium,upgrade,"I would like to place a medium order for carbon mesh panels, 85gsm grade. Please deliver 180 panels by August 15, 2025, for our upcoming upgrade. Thank you."
+sad,operations manager,medium,spacewalk,"I would like to place a medium order for the following spacewalk supplies:
+
+- 25 eva helmet lights for crew visibility
+- 18 zero-gravity adhesive packs for repairs
+- 12 rapid-assemble toolsets for maintenance
+- 8 compressed air canisters for emergencies
+
+I need these supplies delivered by August 15, 2025. Thank you!"
+happy,habitat supervisor,small,construction,"I would like to order 22 structural foam tiles and 16 thermal insulation sheets for our construction project. We need the supplies delivered by August 15, 2025."
+miserable,engineering chief,large,maintenance,"I would like to place a large order for the following mission supplies for an upcoming maintenance operation: 
+
+- 180 pressure-rated hull plates (standard grade)
+- 120 carbon mesh panels (various specifications)
+- 350 eva-rated patch films for repairs
+- 280 nano-fiber bonding strips
+
+I need these supplies delivered by August 15, 2025."
+sad,mission director,large,exploration,"Dear Polaris Outfitting,
+
+I would like to place a large order for mission supplies for an upcoming exploration. Please provide the following items:
+
+- Carbon mesh panels: 18 packages (500 units per package)
+- Thermal insulation sheets: 12 packages (500 units per package)
+- Aerogel sheets: 8 packages (250 units per package)
+- Radiation barrier mesh: 6 rolls (24 meters by 100 meters)
+
+We need these supplies delivered by August 15, 2025.
+
+Thank you,
+Commander Torres  
+Deep Space Exploration  
+Contact: deepspace@polaris.space"
+happy,maintenance supervisor,small,routine,"I would like to order 16 atmospheric seal strips, 12 reflective heatfoil wraps, and 8 cryo-sealant cartridges for routine maintenance. I need the supplies by August 15, 2025. Thank you!"
+sad,habitat coordinator,medium,construction,"I would like to order the following construction supplies for our upcoming habitat expansion: 
+
+- 45 structural foam tiles (high-density grade)
+- 35 pressure-rated hull plates (standard specification)
+- 28 carbon mesh panels for framework
+
+Please ensure the order is delivered by August 15, 2025. Thank you."
+miserable,technical director,large,exploration,"I would like to place a large order for the following mission supplies for our exploration: 
+
+- 280 polymer containment bags for specimen collection
+- 180 environmental sensor pucks for monitoring 
+- 120 quantum marker dye units for tracking
+- 350 holographic label tags for inventory
+- 85 mission data tablets for recording
+
+I need these supplies delivered by August 15, 2025. Thank you."
+pissed off,station chief,large,emergency,"I need a large order of various mission supplies for our emergency response, including eva patch films, cryo-sealant cartridges, and atmospheric seals. I require 280 eva patch films, 180 cryo-sealant cartridges, and 350 atmospheric seal strips. The order needs to be delivered by August 1, 2025."
+miserable,technical coordinator,medium,installation,"I would like to place a medium order for 45 modular light fixtures, 35 portable power nodes, and 28 ion charge kits. I need these supplies delivered by August 15, 2025, in preparation for the installation."
+pissed off,operations director,large,upgrade,"I need to order 280 carbon mesh panels and 180 pressure-rated hull plates for our upcoming upgrade operation. I need the supplies delivered by August 15, 2025."
+pissed off,habitat manager,large,emergency,"I would like to place a large order for high-quality emergency supplies for critical habitat systems. We need 120 multi-layer thermal blankets, 85 radiation barrier mesh units, and 180 aerogel sheets. Please ensure the order is delivered by August 15, 2025. Thank you."
+stressed,facility coordinator,large,installation,"I would like to place a large order for the following mission supplies for our upcoming installation: 
+
+- 350 structural foam tiles for foundation work
+- 280 thermal insulation sheets for environmental control
+- 180 atmospheric seal strips for pressurization
+- 120 hydrophobic coating kits for protection
+
+We need these supplies delivered by August 15, 2025. Thank you."
+miserable,station operator,small,research,"I would like to order 18 environmental sensor pucks and 12 quantum marker dye units for our research project. We need these supplies delivered by August 15, 2025."
+happy,mission logistics,small,installation,"I would like to place an order for 16 biometric ID badges, 12 secure cargo cases, and 22 holographic label tags. I need these supplies delivered by August 15, 2025, for our upcoming installation."
+sad,maintenance coordinator,small,repair,"I would like to order 18 cryo-sealant cartridges and 12 eva-rated patch films for repair work. Please deliver them by August 15, 2025. Thank you."
+stressed,mission coordinator,large,maintenance,"I would like to place a large order for mission supplies for an upcoming maintenance operation. Please provide the following items:
+
+- 180 structural foam tiles (500 units per package)
+- 280 nano-fiber bonding strips (24-inch sections)
+- 120 reflective heatfoil wraps (various sizes)
+- 85 atmospheric seal strips (per package)
+
+I need these supplies delivered by August 15, 2025. Thank you."
+happy,EVA coordinator,large,spacewalk,"We need to order 350 eva helmet lights for crew visibility, 280 zero-gravity adhesive packs for field repairs, and 180 rapid-assemble toolsets for equipment maintenance. The supplies are needed by August 15, 2025, for our spacewalk preparations."
+miserable,operations manager,medium,exploration,"I would like to place a medium order for the following mission supplies for our exploration: 
+- 35 mission data tablets for recording observations
+- 28 field diagnostic scanners for analysis
+- 18 quantum marker dye units for specimen tracking
+- 12 environmental sensor pucks for monitoring
+
+I need these supplies delivered by August 15, 2025. Thank you."
+miserable,station coordinator,large,installation,"I would like to place a large order for the following mission supplies for our upcoming installation:
+
+- 180 portable power nodes for distributed power
+- 120 modular light fixtures for illumination
+- 85 ion charge kits for power management
+- 280 compressed air canisters for life support
+
+Please deliver these supplies by August 15, 2025. Thank you."
+miserable,maintenance lead,small,repair,"I would like to order the following supplies for repair operations: 18 cryo-sealant cartridges, 15 atmospheric seal strips, and 12 reflective heatfoil wraps. I need these supplies delivered by August 15, 2025. Thank you."
+pissed off,habitat engineer,large,upgrade,"I need to order 280 pressure-rated hull plates, 180 carbon mesh panels, and 350 structural foam tiles for habitat upgrade operations. I need these supplies delivered by August 15, 2025."
+pissed off,mission commander,medium,routine,"I would like to place an order for 35 polymer containment bags, 28 biometric ID badges, 18 secure cargo cases, and 12 holographic label tags. I need these supplies delivered by August 15, 2025, for routine operations. Thank you."
+pissed off,station logistics,medium,research,"I would like to place an order for the following research supplies:
+
+- 45 environmental sensor pucks for monitoring systems
+- 35 quantum marker dye units for specimen tracking
+- 28 mission data tablets for data collection
+
+Please ensure that the order is delivered by August 15, 2025. Thank you."
+stressed,technical coordinator,medium,emergency,"I would like to place a medium order for the following emergency supplies for our operations: 45 eva-rated patch films, 35 nano-fiber bonding strips, and 28 cryo-sealant cartridges. I need these supplies delivered by August 15, 2025. Thank you."
+sad,maintenance coordinator,medium,exploration,"I would like to place a medium order for the following mission supplies for our exploration: 
+
+- 35 thermal insulation sheets for environmental protection
+- 28 multi-layer thermal blankets for crew safety
+- 18 aerogel sheets for thermal management
+- 12 radiation barrier mesh units for protection
+
+I need these supplies delivered by August 15, 2025. Thank you."
+stressed,operations chief,medium,routine,"I would like to place a medium order for the following supplies for routine operations: 
+
+- 35 atmospheric seal strips for pressurization
+- 28 reflective heatfoil wraps for thermal control
+- 18 hydrophobic coating kits for maintenance
+
+Please have these supplies delivered by August 15, 2025. Thank you."
+pissed off,habitat coordinator,medium,spacewalk,"I would like to place a medium order for the following spacewalk supplies: 
+
+- 35 eva helmet lights for crew visibility
+- 28 rapid-assemble toolsets for maintenance
+- 18 zero-gravity adhesive packs for repairs
+
+Please deliver the order by August 15, 2025. Thank you."
+happy,systems engineer,small,routine,"I would like to order the following supplies for our routine operations: 
+
+- 18 compressed air canisters for life support
+- 12 portable power nodes for distributed power
+- 8 ion charge kits for power management
+
+I need these supplies delivered by August 15, 2025. Thank you!"
